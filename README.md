@@ -71,22 +71,30 @@ Adicione codigo abaixo dentro do Schema
 }
 ```
 
+Conclua Pagina Install
+
+![image](https://github.com/user-attachments/assets/a7ed1e7c-0ca9-49a2-9392-32e4a3cce6ea)
+
+Abra arquivo app-config.php
+
 ```bash
 /etc/easypanel/projects/seuprojeto/perfexcrm/volumes/perfex_data/application/config
 ```
 
-Abra arquivo
 
 ```bash
 app-config.php
 ```
 
+Acesse pasta perfex_data
+
+```bash
+/etc/easypanel/projects/apagar/perfexcrm/volumes/perfex_data
+```
+
+Apague a pasta install
+
 Altere linha 20 de http para https
-
-Conclua Pagina Install
-
-![image](https://github.com/user-attachments/assets/a7ed1e7c-0ca9-49a2-9392-32e4a3cce6ea)
-
 
 Pronto tudo Funcionando ✅😎
 
