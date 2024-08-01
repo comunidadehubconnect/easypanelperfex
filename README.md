@@ -96,6 +96,12 @@ Apague a pasta install
 
 Altere linha 20 de http para https
 
+Acesse 
+
+https://seudominio.com.br/admin
+
+Use credenciais criadas no Install
+
 Pronto tudo Funcionando ✅😎
 
 Creditos: Andre Marques
